@@ -282,7 +282,9 @@
         "scripts/ubuntu/vmware.sh",
         "scripts/common/parallels.sh",
         "scripts/ubuntu/hyperv.sh",
+	"scripts/ubuntu/cloud-init.sh",
         "scripts/ubuntu/cleanup.sh",
+	"scripts/ubuntu/cleanup-cloud.sh",
         "scripts/common/minimize.sh"
       ],
       "type": "shell"
